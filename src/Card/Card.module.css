@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 10rem;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid grey;
+    border-radius: 0.25rem;
+}
+.flagImage {
+    width: 100px;
+    height: 100px;
+}
