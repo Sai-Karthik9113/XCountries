@@ -47,8 +47,11 @@ The data is fetched from the following API:
 
 Below is a screenshot of the homepage displaying the flag cards grid:
 
-![Flag Cards Grid](src/assets/images/image.png)
+![Flag Cards Grid][Country Flags]
 
 ## License
 
 This project is for educational purposes as part of the course.
+
+
+[Country Flags]: src/assets/images/image.png
