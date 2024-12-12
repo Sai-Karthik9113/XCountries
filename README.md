@@ -27,13 +27,25 @@ This project is part of a student course, focusing on building a React applicati
 
 To get started, clone this repository and install the required dependencies.
 
-1. Clone the repository: `git clone https://github.com/Sai-Karthik9113/XCountries.git`
+1. Clone the repository:
+   ```
+   git clone https://github.com/Sai-Karthik9113/XCountries.git
+   ```
 
-2. Navigate to the project folder: `cd react-country-flags`
+2. Navigate to the project folder:
+   ```
+   cd react-country-flags
+   ```
 
-3. Install the dependencies: `npm install`
+3. Install the dependencies:
+   ```
+   npm install
+   ```
 
-4. Run the development server: `npm start`
+4. Run the development server:
+   ```
+   npm start
+   ```
 
 The application should now be running at `http://localhost:3000`.
 
